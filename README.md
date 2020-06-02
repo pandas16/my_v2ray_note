@@ -8,4 +8,8 @@ https://github.com/Au1rxx/free-ssr-v2ray
 
 订阅地址
 
-https://raw.githubusercontent.com/goutC/iv2Ray/master/README.md
+https://raw.githubusercontent.com/EmilyEdna/SS-SSR-V2RAY/master/SS-SSR-V2RAY/V2RAY/V2RAYSub.txt
+
+https://raw.githubusercontent.com/MRAARON995/AARONV2RAY/master/README.md
+
+https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
